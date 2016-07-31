@@ -1,1 +1,1 @@
-This is my fist file that i created to add to git repositty
+This is my fist file that i created to add to git repositty. added
